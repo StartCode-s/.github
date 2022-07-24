@@ -15,4 +15,4 @@
 
 # **_STARTCODE GROUP_**
 
-!['STARTCODE WEBSITE'](./assets/website.png)
+!['STARTCODE WEBSITE'](https://raw.githubusercontent.com/StartCode-s/.github/main/profile/assets/website.png?raw=true)
